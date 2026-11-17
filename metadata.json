@@ -1,0 +1,8 @@
+{
+  "name": "EG Studio — Interactive Engineering Graphics Simulator",
+  "description": "Interactive 3D solid simulator and orthographic projection engine for B.Tech Engineering Graphics students following the KTU syllabus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
